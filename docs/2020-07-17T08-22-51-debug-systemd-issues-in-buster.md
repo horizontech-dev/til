@@ -1,7 +1,7 @@
 ---
 date: 2020-07-17T08:22:51-07:00
-title: Os-Systemd
-tags: os systemd
+title: debug-systemd-issues-in-buster
+tags: OS
 ---
 
 # Os-Systemd
