@@ -1,4 +1,4 @@
-[OS](./OS), [System SSL Flask Python](./System SSL Flask Python), [networking](./networking), [os](./os)
+[OS](./OS), [System SSL Flask Python](./System SSL Flask Python), [networking](./networking)
 
 * <code>Aug 04, 2020</code> [concept-launchd-macos](2020-08-04T18-25-53-concept-launchd-macos.md)
 
@@ -8,4 +8,4 @@
 * <code>Jul 17, 2020</code> [debug-systemd-issues-in-buster](2020-07-17T08-22-51-debug-systemd-issues-in-buster.md)
 
 
-<sup><sub>generated 4 Aug 2020 18:28:03 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 4 Aug 2020 19:09:58 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
