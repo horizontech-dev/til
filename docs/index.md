@@ -1,5 +1,6 @@
 [GCP](./GCP), [Go](./Go), [OS](./OS), [System SSL Flask Python](./System SSL Flask Python), [networking](./networking)
 
+* <code>Aug 09, 2020</code> [Concept-Go-Generics-Workaround](2020-08-09T11-01-49-concept-go-generics-workaround.md)
 * <code>Aug 09, 2020</code> [Concept-Golang-Struct-Anonymous](2020-08-09T10-44-20-concept-golang-struct-anonymous.md)
 * <code>Aug 05, 2020</code> [Debug-Gcp-Gce-Ipadress](2020-08-05T23-06-44-debug-gcp-gce-ipadress.md)
 * <code>Aug 04, 2020</code> [concept-launchd-macos](2020-08-04T18-25-53-concept-launchd-macos.md)
@@ -10,4 +11,4 @@
 * <code>Jul 17, 2020</code> [debug-systemd-issues-in-buster](2020-07-17T08-22-51-debug-systemd-issues-in-buster.md)
 
 
-<sup><sub>generated 9 Aug 2020 10:57:46 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 9 Aug 2020 11:02:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
