@@ -6,7 +6,7 @@ tags: Go
 
 # Concept-Go-Generics-Workaround
 
-Go doesn't support generics as of now. One way to overcome that is to code generation.
+Go doesn't support generics as of now. One way to overcome that is to interfaces or code generation.
 
 https://flaviocopes.com/golang-generic-generate/
 

@@ -1,5 +1,8 @@
-[GCP](./GCP), [Go](./Go), [OS](./OS), [System SSL Flask Python](./System SSL Flask Python), [networking](./networking)
+[GCP](./GCP), [Go](./Go), [Networking](./Networking), [OS](./OS), [System SSL Flask Python](./System SSL Flask Python), [networking](./networking)
 
+* <code>Jan 25, 2021</code> [What Is ECMP](2021-01-25T19-31-51-what-is-ecmp.md)
+
+* <code>Aug 09, 2020</code> [Concept-Go-Http-Package](2020-08-09T23-18-32-concept-go-http-package.md)
 * <code>Aug 09, 2020</code> [Concept-Go-Generics-Workaround](2020-08-09T11-01-49-concept-go-generics-workaround.md)
 * <code>Aug 09, 2020</code> [Concept-Golang-Struct-Anonymous](2020-08-09T10-44-20-concept-golang-struct-anonymous.md)
 * <code>Aug 05, 2020</code> [Debug-Gcp-Gce-Ipadress](2020-08-05T23-06-44-debug-gcp-gce-ipadress.md)
@@ -11,4 +14,4 @@
 * <code>Jul 17, 2020</code> [debug-systemd-issues-in-buster](2020-07-17T08-22-51-debug-systemd-issues-in-buster.md)
 
 
-<sup><sub>generated 9 Aug 2020 11:02:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 25 Jan 2021 19:33:31 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
